@@ -107,7 +107,7 @@ class DateNavigation extends StatelessWidget {
             controller.getSelected()
                 ? IconPaths.arrow_left
                 : IconPaths.arrow_right,
-            width: 50,
+            width: 49.5,
             height: 50,
           ),
         ),
